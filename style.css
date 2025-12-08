@@ -1,0 +1,74 @@
+/* Geral */
+body {
+    font-family: "Helvetica Neue", Helvetica;
+    background-color: #131313;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.contato {
+    text-align: center;
+}
+
+.deco, a, h2 {
+    color: pink;
+}
+
+.contato{
+    margin-bottom: 30px;
+}
+
+/* Início */
+.intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 100px;
+}
+
+.intro .imagem {
+    display: flex;
+    justify-content: right;
+}
+
+.intro .imagem img {
+    width: 30vw;
+    height: auto;
+    display: block;
+}
+
+/* Jogos */
+.jogos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    align-items: stretch;
+    margin: 100px;
+}
+
+.jogos h2 {
+    text-align: center;
+}
+
+.jogo {
+    border: 1px solid white;
+    padding: 30px;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.jogo img {
+    width: 20vw;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#pixel-art{
+    max-width: 50%;
+    height: auto;
+}
