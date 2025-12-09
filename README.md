@@ -15,15 +15,15 @@ Estou aberta a oportunidades de **estágio**, projetos colaborativos e qualquer 
 
 ## 🎮 Jogos
 
-Acesse a página dedicada aos meus jogos: [`jogos.html`](jogos.html)
+Acesse a página dedicada aos meus jogos: [`jogos.html`]([jogos.html](https://beatrizloyola.github.io/Site-Portfolio//jogos.html))
 
 ## 🔌 AccessVolt – Luva de Detecção de Tensão
 
-Saiba mais sobre o meu projeto de EPI inteligente voltado para profissionais de telecomunicações: [`luva.html`](luva.html)
+Saiba mais sobre o meu projeto de EPI inteligente voltado para profissionais de telecomunicações: [`luva.html`]([luva.html](https://beatrizloyola.github.io/Site-Portfolio/luva.html))
 
 ## 📂 Página inicial
 
-Para visitar o portfólio completo: [`index.html`](index.html)
+Para visitar o portfólio completo: [`index.html`](https://beatrizloyola.github.io/Site-Portfolio/)
 
 ## 📬 Contato
 
