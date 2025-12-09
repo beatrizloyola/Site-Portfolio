@@ -15,7 +15,7 @@ Estou aberta a oportunidades de **estágio**, projetos colaborativos e qualquer 
 
 ## 🎮 Jogos
 
-Acesse a página dedicada aos meus jogos: [`jogos.html`](https://beatrizloyola.github.io/Site-Portfolio//jogos.html)
+Acesse a página dedicada aos meus jogos: [`jogos.html`](https://beatrizloyola.github.io/Site-Portfolio/jogos.html)
 
 ## 🔌 AccessVolt – Luva de Detecção de Tensão
 
